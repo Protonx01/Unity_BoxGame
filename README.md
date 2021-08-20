@@ -22,4 +22,4 @@ _There are also some hidden areas in every level, can you find them all?_
 - All the music and sound effects are taken from **[OpenGameArt](http://opengameart.org)**
 - The Script **[CharacterController2D.cs](/Assets/Scripts/CharacterController2D.cs)** is taken from **[Brackeys youtube channel](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)**. Finetuning a code to make the character move smoothly is just too much of a time consuming job.
 - fonts were collected from **[Google Fonts](http://fonts.google.com)**
-- Other than these, all Scripts, sprites, animations and prefabs were created by me
+- Other than these, all Scripts, sprites, animations and prefabs were created by me, Proyag Chakraborty
